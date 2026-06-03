@@ -6,6 +6,13 @@ Payments are non-refundable after work has started.
 > Percentage may be considered for projects that are released and or have potential
 <details>
 <summary>Prices 💵</summary>
-Price vary depending on the scope of the project and your budget.
-A rough estimate for full games can range from $350 - $1000
+  
+### Price varies depending on the scope of the project and your budget.
+- A rough estimate for full games can range from $350 - $1000
+- Individual systems can range from $50 - $200
+
+> Prices are not final. This is just an estimate.
 </details>
+
+# Contact
+You can contact me through Discord at [@corsiphh](https://discord.com/users/976261198351831070)
