@@ -16,3 +16,5 @@ Payments are non-refundable after work has started.
 
 # Contact
 You can contact me through Discord at [@corsiphh](https://discord.com/users/976261198351831070)
+
+Send me a dm any time, I always respond when I can.
