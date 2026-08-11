@@ -8,15 +8,12 @@ I primarily work with Luau and enjoy developing clean, scalable systems for Robl
 
 ### Brainrot Framework
 
-PASTE_GITHUB_VIDEO_URL_HERE
-
-[View video file](assets/Brainrot%20Framework.mp4)
+[View Brainrot Framework Demo](https://github.com/perkzw/RobloxPortfolio/blob/main/assets/Brainrot%20Framework.mp4)
 
 ### FPS System V1
 
-PASTE_GITHUB_VIDEO_URL_HERE
 
-[View video file](assets/FpsSystemV1Demo.mp4)
+[View FPS System V1 Demo](https://github.com/perkzw/RobloxPortfolio/blob/main/assets/FpsSystemV1Demo.mp4)
 
 ## Payment
 
